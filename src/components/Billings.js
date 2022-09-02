@@ -5,8 +5,8 @@ const Billings = () => (
   <section id='product' className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
       <img src={bill} alt="billing" className='w-[100%] h-[100%] z-[5]' />
-      <div className="absolute z-[3] -left-1/2 top-0 rounded-full w-[50%] h-[50%] white__gradient"></div>
-      <div className="absolute z-[0] -left-1/2 bottom-0 rounded-full w-[50%] h-[50%] pink__gradient"></div>
+      <div className="absolute z-[3] -left-1/4 top-0 rounded-full w-[70%] h-[60%] white__gradient"></div>
+      <div className="absolute z-[5] -left-1/4 bottom-0 rounded-full w-[70%] h-[60%] pink__gradient"></div>
     </div>
     <div className={`${layout.sectionInfo} text-center md:text-left`}>
       <h2 className={styles.heading2}>Easily control your<br /> billing & Invoice.</h2>
