@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+### Objective of the project 
+The main objective was to build one of the best ui/ux banking website to wow the users. Its 
+amazements are in the design and responsiveness 😉
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Folder Structure 
+ > src : it is the root folder of the project;
+ > assests : it contains all the necessary assests that were used to build this project;
+ > components: it contains all the reusable components that were used throught this project;
+ > constants : it contains all the arrays of data that were used to display and build  various componentgs with ready made data eg.Navbar component and Footer component  made extensive use of this constants or datas;
 
-In the project directory, you can run:
+ ### Toolchains that were used to buld this project
+ - create-react-app: this was the intended toolchain that was used to build this project 
+ --> here is the link on to get you started with this toolchain : https://reactjs.org/docs/create-a-new-react-app.html
 
-### `npm start`
+ ### Dependencies used within this project 
+ - The only major dependencies that were used within this project were the 
+   "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+ --> here is the link on to get you started with this library : https://tailwindcss.com/docs/installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    which is required by the tailwind libray to brgin using their utility classes 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ ### Things I learnt from this project
+ - efficient react file and folder structure
+ - The efficient use of tailwind css library to make your life with css more efficient
+ - component reuseabilty
+ - efficent styling methods 
+ - how to create a horizontal scrollbar
+ - how to turn a figma design template to a fully responsive ui 🎨 Design by: https://www.oneweekwonders.com | https://dribbble.com/OWWStudio
 
-### `npm test`
+ ### things to help you get started and follow this amazing project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ --> ⭐ Hostinger - http://hostinger.com/javascriptmastery
+   --> ⭐ Discount Code - JAVASCRIPTMASTERY
 
-### `npm run build`
+📙 Get the ultimate free resources, guides, and eBooks: https://www.jsmastery.pro/resources
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Showcase your dev skills with practical experience and land the coding career of your dreams:
+💻 JS Mastery Pro - https://jsmastery.pro/youtube
+✅ A unique YOUTUBE discount code is automatically applied!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📚 Materials/References:
+GitHub Code (give it a star ⭐): https://github.com/adrianhajdin/proje...
+Figma Design: https://www.figma.com/file/bUGIPys15E...
+GitHub Gist Code Snippets: https://gist.github.com/adrianhajdin/...
+Assets: https://minhaskamal.github.io/DownGit...
+Filmpire course - https://www.jsmastery.pro/ultimate-re...
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🎨 Design by: https://www.oneweekwonders.com | https://dribbble.com/OWWStudio
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+💻 Join JSM on Discord - https://discord.gg/n6EdbFJ
+🐦 Follow JSM on Twitter - https://twitter.com/jsmasterypro
+🖼️ Follow JSM Instagram - https://instagram.com/javascriptmastery
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+💼 Business Inquiries: contact@jsmastery.pro
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
