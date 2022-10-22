@@ -9,7 +9,7 @@ amazements are in the design and responsiveness 😉
  > - components: it contains all the reusable components that were used throught this project;
  > - constants : it contains all the arrays of data that were used to display and build  various componentgs with ready made data eg.Navbar component and Footer component  made extensive use of this constants or datas;
 
- ### Toolchains that were used to buld this project
+ ### Toolchain that was used to buld this project
  - create-react-app: this was the intended toolchain that was used to build this project 
  --> here is the link on to get you started with this toolchain : https://reactjs.org/docs/create-a-new-react-app.html
 

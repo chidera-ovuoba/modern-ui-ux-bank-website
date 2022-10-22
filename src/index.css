@@ -111,6 +111,13 @@ html{
 .feedback-container .feedback-card:last-child {
     margin-right: 0px;
 }
+.feedback-container-card{
+    -ms-overflow-style: none;
+    scrollbar-width: none; 
+}
+.feedback-container-card::-webkit-scrollbar {
+    display: none;
+}
 
 .feedback-card {
     background: transparent;
@@ -124,7 +131,9 @@ html{
     background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
     filter: blur(200px);
 }
-
+.blue__bg{
+    background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
+}
 .pink__gradient {
     background: linear-gradient(90deg, #f4c4f3 0%, #fc67fa 100%);
     filter: blur( 300px);
