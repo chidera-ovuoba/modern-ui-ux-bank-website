@@ -13,9 +13,9 @@ const Testimonial = () => {
         </p>
       </div>
       <div className='flex-wrap flex sm:justify-start justify-center w-full relative z-[1] feedack-container'>
-        <div className='flex w-4/4 overflow-x-scroll .feedback-container-card'>
-        {feedback.map((card) => (
-          <FeedbackCard key={card} {...card} />
+        <div className='flex w-4/4 overflow-x-scroll feedback-container-card'>
+        {feedback.map((card,i) => (
+          <FeedbackCard key={i} {...card} />
         ))}
           </div>
       </div>
